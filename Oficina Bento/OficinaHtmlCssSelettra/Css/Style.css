@@ -9,11 +9,15 @@ a{
 }
 
 b{
-    color: red;
+    font-size: 20px;
 }
 
 c{
-    font-size: 20px;
+    color: red;
+}
+
+p{
+    padding-left: 5%;
 }
 
 .beneficios{
@@ -27,6 +31,3 @@ c{
     width: 35%;
 }
 
-p{
-    padding-left: 5%;
-}
