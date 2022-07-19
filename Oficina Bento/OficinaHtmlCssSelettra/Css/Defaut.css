@@ -1,0 +1,38 @@
+header{
+    background: url("../img/bg.jpg");
+}
+.Imagem_cabecalho{
+    width: 25%;
+}
+.caixa{
+    width: 1300px;
+    margin: 0 auto;
+    position: relative;
+}
+.Cabecalho_Lista{
+    list-style: none;
+}
+nav{
+    position: absolute;
+    top: 80px;
+    right: 0%;
+}
+nav li{
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+body{
+    background-color: #c1cdc1;
+
+}
+*::-webkit-scrollbar {
+    width: 0px;
+  }
