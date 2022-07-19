@@ -1,3 +1,33 @@
+header{
+    background: url("../img/bg.jpg");
+}
+.Imagem_cabecalho{
+    width: 25%;
+}
+.caixa{
+    width: 940px;
+    margin: 0 auto;
+    position: relative;
+}
+.Cabecalho_Lista{
+    list-style: none;
+}
+nav{
+    position: absolute;
+    top: 60px;
+    right: 0%;
+}
+nav li{
+    display: inline;
+    margin-left: 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
 body{
     background-color: #c1cdc1;
 }
