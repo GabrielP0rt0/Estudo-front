@@ -9,6 +9,7 @@ header{
     margin: 0 auto;
     position: relative;
 }
+
 .Cabecalho_Lista{
     list-style: none;
 }
@@ -31,7 +32,10 @@ nav a{
 }
 body{
     background-color: #c1cdc1;
-
+}
+.caixa a:hover{
+    color: rgb(147,19,10);
+    text-decoration: underline;
 }
 *::-webkit-scrollbar {
     width: 0px;
